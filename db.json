@@ -1,24 +1,19 @@
-{
-   "c10":[
-{
-		"name":"Rajesh kumar",
-        "aadhaarno": "100000",
-        "dob":"13/03/2001",
-		"degree":"10th",
-		"namedegree": "CBSE",
-		"institutename": "ABC school",
-		"grade": "A1",
-		"year": "2016"
-	},
-	{
-        "name":"Suresh kumar",
-		"aadhaarno": "100001",
-        "dob":"15/03/2001",
-		"degree":"10th",				
-		"namedegree": "CBSE",
-		"institutename": "XYZ school",
-		"grade": "B1",
-		"year": "2016"
-	}
-       ]
-	}
+[{
+	"name": "Rajesh kumar",
+	"aadhaarno": "100000",
+	"dob": "13/03/2001",
+	"degree": "10th",
+	"namedegree": "CBSE",
+	"institutename": "ABC school",
+	"grade": "A1",
+	"year": "2016"
+}, {
+	"name": "Suresh kumar",
+	"aadhaarno": "100001",
+	"dob": "15/03/2001",
+	"degree": "10th",
+	"namedegree": "CBSE",
+	"institutename": "XYZ school",
+	"grade": "B1",
+	"year": "2016"
+}]
